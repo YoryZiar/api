@@ -1,0 +1,13 @@
+[
+    {
+        "kategori_id": 1,
+        "nama_kategori": "elektronik",
+        "keterangan": "semua barang elektronik"
+    },
+
+    {
+        "kategori_id": 2,
+        "nama_kategori": "Baju pria",
+        "keterangan": "semua baju untuk pria"
+    }
+]

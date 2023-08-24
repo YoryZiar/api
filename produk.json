@@ -1,0 +1,51 @@
+[
+    {
+        "produk_id": 1,
+        "toko_id": 1,
+        "kategori_id": 1,
+        "nama_produk": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "harga": 10000000,
+        "deskripsi": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "image": "produk-image.jpg"
+    },
+
+    {
+        "produk_id": 2,
+        "toko_id": 2,
+        "kategori_id": 2,
+        "nama_produk": "Mens Casual Premium Slim Fit T-Shirts ",
+        "harga": 65000,
+        "deskripsi": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "image": "produk-image.jpg"
+    },
+
+    {
+        "produk_id": 3,
+        "toko_id": 3,
+        "kategori_id": 2,
+        "nama_produk": "Mens Cotton Jacket",
+        "harga": 50000,
+        "deskripsi": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "image": "produk-image.jpg"
+    },
+
+    {
+        "produk_id": 4,
+        "toko_id": 2,
+        "kategori_id": 2,
+        "nama_produk": "Mens Casual Slim Fit",
+        "harga": 75000,
+        "deskripsi": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "image": "produk-image.jpg"
+    },
+
+    {
+        "produk_id": 5,
+        "toko_id": 1,
+        "kategori_id": 1,
+        "nama_produk": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "harga": 150000,
+        "deskripsi": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "image": "produk-image.jpg"
+    }
+]
